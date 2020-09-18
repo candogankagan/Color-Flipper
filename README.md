@@ -1,2 +1,2 @@
-# Color-Flipper
+# Randomize colors by clicking button
  
